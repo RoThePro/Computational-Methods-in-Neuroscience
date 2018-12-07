@@ -18,9 +18,9 @@ This course is to provide a comprehensive introduction to the computational meth
 Grades will be maintained through CS grades server? ELMS?
 
 Course percentages go as follows:
-| Percentage | Title 		| Description |
-| --------- | ------- | -------- |
-| 20%		 | Exercises	| Adding later|
-| 30%		 | Projects		| Adding later|
-| 20%		 | Midterm		| Adding later|
-| 30%	     | Final		| Adding later|
+ | Percentage | Title 		| Description |
+ | --------- | ------- | -------- |
+ | 20%		 | Exercises	| Adding later|
+ | 30%		 | Projects		| Adding later|
+ | 20%		 | Midterm		| Adding later|
+ | 30%	     | Final		| Adding later|

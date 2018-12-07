@@ -24,3 +24,13 @@ Course percentages go as follows:
  | 30%		 | Projects		| Adding later|
  | 20%		 | Midterm		| Adding later|
  | 30%	     | Final		| Adding later|
+
+ ### Exercises
+
+ Exercises will be used to introduce concepts and will be given every lecture and due 24 hours after taught. These will include small coding and biology questions that will help in reinforcing concepts learned in class. 
+
+ ### Projects
+
+ Projects will be given after the completion of entire concepts such as Hoc or data analysis. As a result they will be more heavily weighted than the exercises. 
+
+

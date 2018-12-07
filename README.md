@@ -19,6 +19,7 @@ Grades will be maintained through CS grades server? ELMS?
 
 Course percentages go as follows:
 | Percentage | Title 		| Description |
+| --------- | ------- | -------- |
 | 20%		 | Exercises	| Adding later|
 | 30%		 | Projects		| Adding later|
 | 20%		 | Midterm		| Adding later|

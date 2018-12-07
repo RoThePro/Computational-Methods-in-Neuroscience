@@ -1,2 +1,4 @@
-# Computational Methods in Neuroscience
+# Introduction to Brain Data
+
+
 

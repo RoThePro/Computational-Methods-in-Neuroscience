@@ -25,7 +25,6 @@ Course percentages go as follows:
  | 30%		 | Projects		| Adding later|
  | 20%		 | Midterm		| Adding later|
  | 30%	     | Final		| Adding later|
-<<<<<<< HEAD
 
  ### Exercises
 
@@ -35,6 +34,3 @@ Course percentages go as follows:
 
  Projects will be given after the completion of entire concepts such as Hoc or data analysis. As a result they will be more heavily weighted than the exercises. 
 
-
-=======
->>>>>>> 69c45e11fc45a5cc11f1fb31b5b6e0bccdb17300

@@ -7,8 +7,8 @@
 ## Supplementary Materials 
 
 ### Links
-<a href="https://www.khanacademy.org/science/biology/ap-biology/ap-human-biology#ap-neuron-nervous-system">Khan Academy</a>
-<a href="https://www.sciencedaily.com/releases/2018/10/181018141057.htm">How dendrites work</a>
+<a href="https://www.khanacademy.org/science/biology/ap-biology/ap-human-biology#ap-neuron-nervous-system">Khan Academy</a><br>
+<a href="https://www.sciencedaily.com/releases/2018/10/181018141057.htm">How dendrites work</a><br>
 <a href="https://www.quora.com/What-are-areas-of-neuroscience-that-intersect-with-computer-science">Computer Science x Neuroscience</a>
 
 ### Questions

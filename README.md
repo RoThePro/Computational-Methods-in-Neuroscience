@@ -7,11 +7,10 @@ This course is to provide a comprehensive introduction to the computational meth
 ## Topics Covered
 - Application of Computer Science to Neuroscience
 - Virtualizing neurons through Hoc 
-- Introduction to brain data 
-- Data science and analysis techniques in neuroscience
-- Graph theory and connectomics
 - Electromagnetic properties and NEURON solver 
-- Network connections in the brain
+- Introduction to brain data 
+- Processing and analysis of brain signals
+- Introduction to connectomics 
 
 ## Grading
 

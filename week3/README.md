@@ -4,7 +4,7 @@
 This week we will begin learning a new software that is necessary for computationally modeling biologically realistic neurons. HOC is the language that is primarily used with NEURON but python is also a option. NEURON is compatable with Sim4Life and later in this semester you will learn how to integrate the two together.  
 
 ### Homework
-To complete the Tutorial A and Tutorial B on the MIT website linked here.
+To complete the Tutorial A and Tutorial B on the MIT website linked here. <br>
 <a href="http://web.mit.edu/neuron_v7.4/nrntuthtml/tutorial/tutA.html">NEURON Tutorial A</a><br>
 <a href="http://web.mit.edu/neuron_v7.4/nrntuthtml/tutorial/tutB.html">NEURON Tutorial B</a>
 

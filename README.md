@@ -32,4 +32,14 @@ Course percentages go as follows:
  ### Projects
 
  Projects will be given after the completion of entire concepts such as Hoc or data analysis. As a result they will be more heavily weighted than the exercises. 
+ 
+ ### Order of Class
+ 1 week python
+ 1 week neuroscience
+ 3 week hoc/ neuron
+ 2 week intro to brain data and intro to signal processing
+ 2 week finish hoc
+ 2 week finish signal processing
+ connectomics
+ I will remove this just for reference till we finish
 

@@ -16,5 +16,6 @@
 - What is the anatomy of a neuron?
 - How can the action potential of a neuron get modeled using computational neuroscience?
 - How do ions in neurons work, and why is that important?
+- If we have time, Circuitry of the Basal Ganglia.
 
 

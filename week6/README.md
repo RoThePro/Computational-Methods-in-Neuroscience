@@ -1,1 +1,13 @@
-# Computational Methods in Neuroscience
+# Introduction to Brain Data
+
+## Overview 
+
+
+
+## Supplementary Materials 
+
+### Links
+
+### Questions
+
+

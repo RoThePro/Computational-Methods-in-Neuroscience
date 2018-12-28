@@ -1,4 +1,4 @@
-# Object Oriented HOC and Sim4Life Intro
+# Sim4Life Intro
 
 ### Sim4Life
 While you guys have been doing your Sim4Life tutorials for class here we are going to a dive into some of the ones that you have not been exposed to, that are specifically important to Functionalizing MIDA. 

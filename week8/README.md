@@ -1,18 +1,22 @@
 # Object Oriented HOC and Sim4Life Intro
 
-### NEURON
-This week we will be doing the last of HOC and introduce its compatibility with Sim4Life.
+### Sim4Life
+While you guys have been doing your Sim4Life tutorials for class here we are going to a dive into some of the ones that you have not been exposed to, that are specifically important to Functionalizing MIDA. 
 
 ### Homework
-To complete the Tutorial D on the MIT website linked here. <br>
-<a href="http://web.mit.edu/neuron_v7.4/nrntuthtml/tutorial/tutD.html">NEURON Tutorial D</a><br>
+To complete the monopole simulation from Sim4Life. <br>
+In order to access the Sim4Life simulations you have to follow the following steps. <br>
+1. Open up Sim4Life <br>
+2. Click on "help" at the top and click on the "tutorials" <br>
+3. Go to Neuronal Dynamics Solver Tutorials <br>
+4. Click on the one that you need to complete <br>
 
 ### Questions that you should be able to answer
-- What is NEURON?
-- Where did it come from, and why is this why what we use?
-- What is Hodgkin-Huxley and why it is important?
-- Why we compartmentalize?
-- What is ModelDB and why do we care? 
+- How does the simulation work?
+- What does the simulation tell me?
+- What does this allow me to do?
+- Why would this be helpful?
+- When could I extrapolate this to something else?
 
 ### Extra Readings
 TBD

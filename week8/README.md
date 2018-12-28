@@ -5,7 +5,7 @@ This week we will be doing the last of HOC and introduce its compatibility with 
 
 ### Homework
 To complete the Tutorial D on the MIT website linked here. <br>
-<a href="http://web.mit.edu/neuron_v7.4/nrntuthtml/tutorial/tutD.html">NEURON Tutorial A</a><br>
+<a href="http://web.mit.edu/neuron_v7.4/nrntuthtml/tutorial/tutD.html">NEURON Tutorial D</a><br>
 
 ### Questions that you should be able to answer
 - What is NEURON?

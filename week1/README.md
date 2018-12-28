@@ -1,19 +1,7 @@
-# Basic Biology and Chemistry for Computational Neuroscience
+# Python for Data Analysis
 
 ## Overview 
 
-
+Python is a programming language used heavily in the field of data science due to the many tools and libraries it has available for analysis. In this class we will be using Numpy and Scipy heavily, along with other libraries that facilitate the analysis of neuroscience data. In this class we will cover the libraries we use and some of the functionality we can get from them to be able to analyze data and even create our own models to predict the onset of certain diseases. 
 
 ## Supplementary Materials 
-
-### Links
-<a href="https://www.khanacademy.org/science/biology/ap-biology/ap-human-biology#ap-neuron-nervous-system">Khan Academy</a><br>
-<a href="https://www.sciencedaily.com/releases/2018/10/181018141057.htm">How dendrites work</a><br>
-<a href="https://www.quora.com/What-are-areas-of-neuroscience-that-intersect-with-computer-science">Computer Science x Neuroscience</a>
-
-### Questions
-- How does a neuron’s action potential work?
-- What is the anatomy of a neuron?
-- How can the action potential of a neuron get modeled using computational neuroscience?
-- How do ions in neurons work, and why is that important?
-

@@ -1,2 +1,0 @@
-# Computational Methods in Neuroscience
-

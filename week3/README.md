@@ -19,5 +19,5 @@ To complete the Tutorial A and Tutorial B on the MIT website linked here. <br>
 
 ### Extra Readings
 <a href="https://scholar.google.com/citations?user=lgVfVg0AAAAJ&hl=en&oi=sra">Paper about NEURON</a><br>
-
+<a href="https://neuron.yale.edu/neuron/static/papers/hbtnn2/overviewforhbtnn2e.pdf">Neuron Simulation Enviornment</a><br>
 

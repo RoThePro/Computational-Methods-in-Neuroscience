@@ -34,18 +34,16 @@ Course percentages go as follows:
  Projects will be given after the completion of entire concepts such as Hoc or data analysis. As a result they will be more heavily weighted than the exercises. 
  
  ### Schedule of Class
- 2 week finish signal processing
- connectomics
- I will remove this just for reference till we finish
 
  | Week(s) | Topics 		| Description |
  | --------- | ------- | -------- |
  | 1		 | Intro to Python	| Adding later|
- | 2		 | Neuro and computer science		| Adding later|
+ | 2		 | Neuro x computer science		| Adding later|
  | 3-5		 | Intro to NEURON and Hoc		| Adding later|
  | 6-7	     | Intro to brain data and signal processing		| Adding later|
  | 8-9		 | Advanced Hoc | Adding later |
- | 10-11	 | Advanced signal processing | Adding later |
- | 12-end    | Connectomics | Adding later |
+ | 10		 | Intro to classification algorithms | Adding later |
+ | 11	     | Advanced signal processing | Adding later |
+ | 12-end    | Intro to machine learning | Adding later |
 
 

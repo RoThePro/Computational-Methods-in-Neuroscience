@@ -1,11 +1,14 @@
-# Introduction to Brain Data
+# Neuron Continued 
+This week we will continue building on what we did last week and get a little bit more advanced in NEURON. Your homework this week will have you building a set of neurons and learning exactly what the code does is very important because it will come into play when you have to model your own neurons. 
 
-## Overview 
-Analyzing data from the brain can be very difficult due to how it is both collected and formatted. Invasive data collection from the brain can be quite dangerous as we don't fully know how the brain works and can in turn harm it in an attempt to gather data. Therefore we use non-invasive methods such as MRIs and EEGs. In this lecture we will cover the different types of ways to collect brain data and their respective modalities and an introduction to how we start to analyze such data. 
+### Homework
+To complete the Tutorial C on the MIT website linked here. <br>
+<a href="http://web.mit.edu/neuron_v7.4/nrntuthtml/tutorial/tutC.html">NEURON Tutorial C</a><br>
 
+### Questions to answer
+- What does the pt3dadd() function take as its input?
+- What did you accomplish through this tutorial?
+- Where could I apply this elsewhere?
 
-## Supplementary Materials 
-
-### Questions
-
-
+### Extra Readings
+TBD

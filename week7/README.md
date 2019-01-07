@@ -1,10 +1,15 @@
-# Introduction to Signal Processing
+# Theory that is necessary 
+This week we will back away a bit from NEURON and begin introducing concepts that are going to be needed for when we pick back up with Sim4Life. We are going to spend a bit of time focusing on the principles that are neccessary. 
 
-## Overview 
-Much of the data we collect from the brain is in the form of a signal. Signals give us several hundred data points per minute and we need to be able to identify patterns in the signal to make sense of it. Signal processing allows us to do this with any kinds of biological signals we may encounter.  In this lecture we will cover how we can use these algorithms to extract key features from any signal we are given to then break it down into a vector that we can then feed into a classification algorithm. 
-
-## Supplementary Materials 
-
-### Questions
+### Homework
+Do the following readings
 
 
+
+and then write a 12 Times New Roman 1.5 spaced paper on what you learned and how you can apply it. 
+Unlike your other NEURON homeworks in which you could work with your classmates for this one you cannot work together and any plagirism will lead to a zero.
+
+### Questions to Answer
+TBD
+
+### Extra Readings

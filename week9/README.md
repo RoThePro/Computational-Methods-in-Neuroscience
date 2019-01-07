@@ -1,23 +1,8 @@
-# Finishing Sim4Life
+# Introduction to Signal Processing
 
-### Sim4Life
-This is the last week in which you will be working with NEURON and Sim4Life in class. 
+## Overview 
+Much of the data we collect from the brain is in the form of a signal. Signals give us several hundred data points per minute and we need to be able to identify patterns in the signal to make sense of it. Signal processing allows us to do this with any kinds of biological signals we may encounter.  In this lecture we will cover how we can use these algorithms to extract key features from any signal we are given to then break it down into a vector that we can then feed into a classification algorithm. 
 
-### Homework
-To complete the Neuronal Network and Connections simulation from Sim4Life. <br>
-In order to access the Sim4Life Tutorials you have to follow the following steps. <br>
-1. Open up Sim4Life <br>
-2. Click on "help" at the top and click on the "tutorials" <br>
-3. Go to Neuronal Dynamics Solver Tutorials <br>
-4. Click on the one that you need to complete <br>
+### Questions
 
-### Questions that you should be able to answer
-- How does the simulation work?
-- What does the simulation tell me?
-- What does this allow me to do?
-- Why would this be helpful?
-- When could I extrapolate this to something else?
-
-### Extra Readings
-TBD
 

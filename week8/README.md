@@ -1,22 +1,12 @@
-# Sim4Life Intro
+# Introduction to Brain Data
 
-### Sim4Life
-While you guys have been doing your Sim4Life tutorials for class here we are going to a dive into some of the ones that you have not been exposed to, that are specifically important to Functionalizing MIDA. 
+## Overview 
+Analyzing data from the brain can be very difficult due to how it is both collected and formatted. Invasive data collection from the brain can be quite dangerous as we don't fully know how the brain works and can in turn harm it in an attempt to gather data. Therefore we use non-invasive methods such as MRIs and EEGs. In this lecture we will cover the different types of ways to collect brain data and their respective modalities and an introduction to how we start to analyze such data. 
 
-### Homework
-To complete the monopole simulation from Sim4Life. <br>
-In order to access the Sim4Life simulations you have to follow the following steps. <br>
-1. Open up Sim4Life <br>
-2. Click on "help" at the top and click on the "tutorials" <br>
-3. Go to Neuronal Dynamics Solver Tutorials <br>
-4. Click on the one that you need to complete <br>
+### Questions
+- What types of brain data can we collect and analyze?
+- What modalities of data can data be collected in and how does their analysis differ?
+- What features of each modality do we try to extract?
 
-### Questions that you should be able to answer
-- How does the simulation work?
-- What does the simulation tell me?
-- What does this allow me to do?
-- Why would this be helpful?
-- When could I extrapolate this to something else?
 
-### Extra Readings
-TBD
+

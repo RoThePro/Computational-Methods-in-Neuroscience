@@ -49,6 +49,6 @@ Projects will be given after the completion of entire concepts such as Hoc or da
  | 10-11	 | Advanced Hoc | Adding later |
  | 12		 | Intro to classification algorithms | Adding later |
  | 13	     | Advanced signal processing | Adding later |
- | 14	     | Advanced classification al gorithms | Adding later |
+ | 14	     | Advanced classification algorithms | Adding later |
 
 

@@ -21,8 +21,8 @@ Course percentages go as follows:
  | Percentage | Title |
  | --------- | ------- |
  | 10%		 | In-class quizzes	| 
- | 35%		 | Exercises	| 
- | 55%		 | Projects		|  
+ | 60%		 | Exercises	| 
+ | 30%		 | Projects		|  
 
 ### In-class quizzes
 

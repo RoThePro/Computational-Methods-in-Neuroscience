@@ -4,3 +4,5 @@ This week we are going to discuss pathways in the brain that apply to what you a
 
 ## Homework
 Readings and Questions
+https://www.khanacademy.org/science/health-and-medicine/nervous-system-diseases/parkinsons-disease/v/the-basal-ganglia-the-direct-pathway
+

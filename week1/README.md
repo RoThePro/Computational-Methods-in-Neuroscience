@@ -6,3 +6,4 @@ Python is a programming language used heavily in the field of data science due t
 
 
 ## Homework
+<a href="https://github.com/RoThePro/Computational-Methods-in-Neuroscience/blob/master/exercises/TicTacToe/project_description.pdf">Tic Tac Toe</a>

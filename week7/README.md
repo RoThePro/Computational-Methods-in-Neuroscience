@@ -7,12 +7,7 @@ To complete the Tutorial D on the MIT website linked here. <br>
 You might find the following link helpful for completing the above tutorial. <br>
 <a href="https://www.neuron.yale.edu/neuron/static/docs/nmodl/mswin.html">Mknrndll Extra Link</a><br>
 
-Do the following readings
-
-
-
-and then write a 12 Times New Roman 1.5 spaced paper on what you learned and how you can apply it. 
-Unlike your other NEURON homeworks in which you could work with your classmates for this one you cannot work together and any plagirism will lead to a zero.
+You must also submit a document which explains what each block that you write does, in your own words. 
 
 ### Extra Credit
 Go through the following paper and note the difference in code between three of the different mechanism that might need to be taken into account, submit a paper on the differences for extra credit, submit code demonstrating the difference and you will get double the extra credit:

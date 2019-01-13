@@ -1,5 +1,5 @@
-# Theory that is necessary 
-This week we will back away a bit from NEURON and begin introducing concepts that are going to be needed for when we pick back up with Sim4Life. We are going to spend a bit of time focusing on the principles that are neccessary. 
+# NEURON into Sim4Life
+This week we will end with NEURON and begin introducing concepts that are going to be needed for when we pick back up with Sim4Life. We are going to spend a bit of time focusing on the principles that are neccessary. 
 
 ### Homework
 Do the following readings

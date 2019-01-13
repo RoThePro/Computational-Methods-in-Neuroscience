@@ -2,6 +2,9 @@
 This week we will end with NEURON and begin introducing concepts that are going to be needed for when we pick back up with Sim4Life. We are going to spend a bit of time focusing on the principles that are neccessary. 
 
 ### Homework
+To complete the Tutorial D on the MIT website linked here. <br>
+<a href="http://web.mit.edu/neuron_v7.4/nrntuthtml/tutorial/tutD.html">NEURON Tutorial D</a><br>
+
 Do the following readings
 
 

@@ -15,5 +15,5 @@ and then write a 12 Times New Roman 1.5 spaced paper on what you learned and how
 Unlike your other NEURON homeworks in which you could work with your classmates for this one you cannot work together and any plagirism will lead to a zero.
 
 ### Extra Credit
-Go through the following paper and not the difference in code between three of the different mechanism that might need to be taken into account:
+Go through the following paper and note the difference in code between three of the different mechanism that might need to be taken into account, submit a paper on the differences for extra credit, submit code demonstrating the difference and you will get double the extra credit:
 <a href="https://www.neuron.yale.edu/neuron/static/papers/nc2000/nmodl400.pdf">Extra Credit</a><br>
